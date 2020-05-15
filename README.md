@@ -1,5 +1,4 @@
 Nimi Das
-red id: 822381047
 date: 5/14/2020
 
 # BMI_Calculator
